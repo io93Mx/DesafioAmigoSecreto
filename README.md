@@ -2,9 +2,10 @@
 
 
 
-<h1 align='center'> Juego del amigo secreto </h1>
+<h1 align='center'> Juego del amigo secreto de alura</h1>
 
-<h3>Este es el juego: El amigo secreto, del curso de alura</h3><a href="https://io93mx.github.io/DesafioJuego1DelNumeroSecreto/">Jugar</a><br><br>
+<h3>Este es el juego: El amigo secreto, del curso de alura</h3><a href="https://io93mx.github.io/DesafioAmigoSecreto/">Jugar</a><br><br>
+
 <em>De que trata:<em><br><br>El juego trata de que introduscas varios nombres de tus amigos (por lo menos 2), para que despues el sistema escoja al azar un nombre de toda la lista que le diste y ese sera el ganador, el cual te debera invitar algo. :).
 
 
